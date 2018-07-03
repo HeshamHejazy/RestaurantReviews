@@ -111,6 +111,8 @@ nav h1 a {
   height: 400px;
   width: 100%;
   background-color: #ccc;
+  display: block;
+  overflow: hidden;
 }
 
 #maincontent-top > #map-container, #maincontent-top > #map-container > #map {
